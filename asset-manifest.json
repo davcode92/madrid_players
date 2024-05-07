@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madrid_players/static/css/main.29abb500.css",
+    "main.js": "/madrid_players/static/js/main.bd34d5b2.js",
+    "static/js/453.c487a8f4.chunk.js": "/madrid_players/static/js/453.c487a8f4.chunk.js",
+    "index.html": "/madrid_players/index.html",
+    "main.29abb500.css.map": "/madrid_players/static/css/main.29abb500.css.map",
+    "main.bd34d5b2.js.map": "/madrid_players/static/js/main.bd34d5b2.js.map",
+    "453.c487a8f4.chunk.js.map": "/madrid_players/static/js/453.c487a8f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29abb500.css",
+    "static/js/main.bd34d5b2.js"
+  ]
+}
