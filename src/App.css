@@ -1,7 +1,50 @@
-.App {
+.log {
   text-align: center;
+  display:flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+
 }
 
+footer {
+  background-color: white;
+  text-align: center;
+  margin-top: auto;
+  color: #093181;
+  padding: 90px;
+  margin-top: 90px;
+}
+#rmd{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+}
+.App{
+  background-color: #093181;
+  background-image: url("https://wallpapers.com/images/hd/real-madrid-3000-x-1589-background-wqnkik4pha9490lp.jpg");
+  background-repeat:repeat;
+  
+  
+
+  }
+    a {
+      color:white;
+      text-decoration: none;
+    }
+
+
+h1{
+  text-align: center;
+  color: white;
+
+}
+P{
+  text-align: center;
+  color: blue;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
